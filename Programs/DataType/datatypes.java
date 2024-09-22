@@ -1,7 +1,7 @@
 package Programs.DataType;
 
 /*
- * ###################### Primitive Datatypes ############################
+ * ###################### Primitive Datatypes (Value) ############################
  * - byte 1 Byte 
  * - short 2 Byte
  * - int 4 Byte
@@ -11,7 +11,7 @@ package Programs.DataType;
  * - boolean 1 Bit
  * - char 2 Byte
  * 
- * ###################### Non-Primitive Datatypes ############################
+ * ###################### Non-Primitive Datatypes (Reference) ############################
  * Also known as value data-type or reference data
  * type
  * - classes

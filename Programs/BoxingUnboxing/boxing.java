@@ -14,7 +14,7 @@ class wrapper {
 class boxing {
     public static void main(String[] args) {
         int a = 100;
-        Integer a1 = a; // Auto Boxing or boxing
+        Integer a1 = a; // Auto Boxing or boxing is always in compatiable int
         System.out.println(a1);
     }
 }

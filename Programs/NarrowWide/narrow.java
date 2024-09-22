@@ -2,6 +2,7 @@ package Programs.NarrowWide;
 
 /* Implicit casting  
  * Storing smaller to bigger
+ * converson a 32 bit into 32 byte is widening
  */
 class narrow {
     public static void main(String[] args) {

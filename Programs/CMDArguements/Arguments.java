@@ -14,3 +14,9 @@ class hello {
         System.out.println(Res);
     }
 }
+
+/*
+ * Run this code
+ * javac /Programs/CMDArguements Arguments.java
+ * java /Programs/CMDArguements hello
+ */
