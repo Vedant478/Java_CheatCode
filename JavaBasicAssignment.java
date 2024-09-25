@@ -6,7 +6,6 @@
 // using the constructor, and print their name and age.
 
 import java.util.Scanner;
-import java.util.jar.Attributes.Name;
 
 class Person {
     String Name;
