@@ -21,9 +21,11 @@ public class EmployeeManager {
 				System.out.println("Enter Salary: ");
 				e[i].Salary=sc.nextInt();
 				System.out.println("Enter Job: ");
+				sc.nextLine();
 				e[i].Job=sc.nextLine();
 				
 				System.out.println("Employee Added Successfully");
+				break;
 			}
 		}
 		if(flag==false)

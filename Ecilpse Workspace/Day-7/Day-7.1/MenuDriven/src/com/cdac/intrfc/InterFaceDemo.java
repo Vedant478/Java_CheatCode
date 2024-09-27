@@ -22,6 +22,4 @@ class MyClass implements MyInterface {
 	
 }
 
-public class InterfaceDemo{
-	
-}
+

@@ -1,8 +1,7 @@
 package com.cdac.abstracts;
 abstract class Demo { // If a method inside the class is abstract then the class should also be abstract 
 	int Num1;
-	static 
-	public Demo() {
+	static void Demo() {
 		
 	}
 	void Method1() { // Non static concrete method of class
