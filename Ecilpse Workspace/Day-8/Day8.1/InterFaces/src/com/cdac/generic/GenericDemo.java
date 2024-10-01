@@ -23,23 +23,23 @@ public class GenericDemo<T extends Demo>
 		d1.Num2=new Demo();
 		}
 	
-	public static void main3(String[] args) {
-		GenericDemo<String> g1 = new GenericDemo<String>();
-		GenericDemo<String> g2 = new GenericDemo<String>();
-		
-		g2.Num1="Malkeet";
-		g2.Num2="Singh";
-		
-		g2.ShowData();
-	}
+//	public static void main3(String[] args) {
+//		GenericDemo<String> g1 = new GenericDemo<String>();
+//		GenericDemo<String> g2 = new GenericDemo<String>();
+//		
+//		g2.Num1="Malkeet";
+//		g2.Num2="Singh";
+//		
+//		g2.ShowData();
+//	}
 	
 	public static void main2(String[] args) {
-		GenericDemo<Integer> in1 = new GenericDemo<Integer>(); //Bounded Type
-		
-		in1.Num1=100;
-		in1.Num2=200;
-		
-		in1.ShowData();
+//		GenericDemo<Integer> in1 = new GenericDemo<Integer>(); //Bounded Type
+//		
+//		in1.Num1=100;
+//		in1.Num2=200;
+//		
+//		in1.ShowData();
 		
 		//in1.Num1 = "Malkeet";
 	}
@@ -49,12 +49,12 @@ public class GenericDemo<T extends Demo>
 		GenericDemo d1 = new  GenericDemo<>();
 		GenericDemo d2 = new  GenericDemo<>();
 
-		d1.Num1=100;
-		d1.Num2=200;
-		d2.Num1="Malkeet";
-		d2.Num2= "Singh";		
-		d1.ShowData();
-		d2.ShowData();
+//		d1.Num1=100;
+//		d1.Num2=200;
+//		d2.Num1="Malkeet";
+//		d2.Num2= "Singh";		
+//		d1.ShowData();
+//		d2.ShowData();
  	}
 
 }
